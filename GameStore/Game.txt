@@ -1,0 +1,1 @@
+{"game":{"Id":"b48f9b90-01a0-4a97-907c-b010c0b94b18","Name":"Super game name","Key":"gameKey","Description":"Some text"},"genres":["b3f28e23-7226-44cd-8ff2-02fcb40b6333","8558eba6-0b5c-42ec-bac4-224a6daa41db"],"platforms":["ff527f0b-e48a-458f-b572-a752e9ebe295"]}
